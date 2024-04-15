@@ -6,9 +6,6 @@ The architecture is inspired by “Searching for MobileNetV3” (https://arxiv.o
 ![image](https://github.com/laleth15/Grasp-Prediction-Neural-Network/assets/63454572/1377a463-0b13-4c15-9f00-50b258dcefcc)
 
 To run the code:
-1. to view the grasp simulator via the Pybullet graphical user interface.
-
-$python simulator.py
-
+1. $python simulator.py (to view the grasp simulator via the Pybullet graphical user interface)
 2. $python trainer.py
 3. $python evaluate model.py
