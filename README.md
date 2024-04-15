@@ -9,3 +9,5 @@ To run the code:
 1. $python simulator.py (to view the grasp simulator via the Pybullet graphical user interface)
 2. $python trainer.py
 3. $python evaluate model.py
+
+# The success rate of this model is 54.0%
